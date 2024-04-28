@@ -39,9 +39,6 @@
 
 
 
-
-
-
 // 11-savol
 // var Mashina = {
 //   halat: 'tugallandi',
@@ -118,10 +115,20 @@
 
 // var odamlar = [];
 
-// odamlar.push(new Shaxs('Saydullo', 50000, 22,000));
-// odamlar.push(new Shaxs('Temurbek', 38000, 25,500));
-// odamlar.push(new Shaxs('Muhammadrasul', 42000, 30,000));
+// odamlar.push(new Shaxs('Saydullo', 50000, 22000));
+// odamlar.push(new Shaxs('Temurbek', 38000, 25500));
+// odamlar.push(new Shaxs('Muhammadrasul' 42000, 30000));
 
 // odamlar.forEach(function (shaxs) {
 //   console.log(shaxs.ism + 'ning oylik daromati: $' + shaxs.getMonthlyIncome());
 // });
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////11___DARS
+
+
